@@ -1,0 +1,32 @@
+.questionCard {
+  padding: 10px;
+  border: 1px solid rgb(221, 187, 187);
+  border-radius: 10px;
+  max-width: 50%;
+  min-width: 30%;
+  min-height: 50px;
+}
+.question {
+  align-self: flex-start;
+  background-color: #e5e5e5;
+  color: #171717;
+}
+
+.answer {
+  align-self: flex-end;
+  background-color: #171717;
+  color: white;
+}
+
+.input {
+  border: 1px solid rgb(221, 187, 187);
+  background-color: #f1f3f5;
+  color: #444;
+}
+
+.submitButton {
+  padding: 5px 10px;
+  background-color: #dee2e6;
+  color: #444;
+  font-weight: 500;
+}

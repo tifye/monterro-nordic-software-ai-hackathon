@@ -1,0 +1,126 @@
+[
+  {
+    "weekStr": "Week 34",
+    "monday": {
+      "date": "2024-08-20T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "tuesday": {
+      "date": "2024-08-21T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "wednesday": {
+      "date": "2024-08-22T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "thursday": {
+      "date": "2024-08-23T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "friday": {
+      "date": "2024-08-24T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "saturday": {
+      "date": "2024-08-25T08:39:09.093258396Z",
+      "availability": "unavailable"
+    },
+    "sunday": {
+      "date": "2024-08-26T08:39:09.093258396Z",
+      "availability": "unavailable"
+    }
+  },
+  {
+    "weekStr": "Week 35",
+    "monday": {
+      "date": "2024-08-27T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "tuesday": {
+      "date": "2024-08-28T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "wednesday": {
+      "date": "2024-08-29T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "thursday": {
+      "date": "2024-08-30T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "friday": {
+      "date": "2024-08-31T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "saturday": {
+      "date": "2024-09-01T08:39:09.093258396Z",
+      "availability": "unavailable"
+    },
+    "sunday": {
+      "date": "2024-09-02T08:39:09.093258396Z",
+      "availability": "unavailable"
+    }
+  },
+  {
+    "weekStr": "Week 36",
+    "monday": {
+      "date": "2024-09-03T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "tuesday": {
+      "date": "2024-09-04T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "wednesday": {
+      "date": "2024-09-05T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "thursday": {
+      "date": "2024-09-06T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "friday": {
+      "date": "2024-09-07T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "saturday": {
+      "date": "2024-09-08T08:39:09.093258396Z",
+      "availability": "unavailable"
+    },
+    "sunday": {
+      "date": "2024-09-09T08:39:09.093258396Z",
+      "availability": "unavailable"
+    }
+  },
+  {
+    "weekStr": "Week 37",
+    "monday": {
+      "date": "2024-09-10T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "tuesday": {
+      "date": "2024-09-11T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "wednesday": {
+      "date": "2024-09-12T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "thursday": {
+      "date": "2024-09-13T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "friday": {
+      "date": "2024-09-14T08:39:09.093258396Z",
+      "availability": "available"
+    },
+    "saturday": {
+      "date": "2024-09-15T08:39:09.093258396Z",
+      "availability": "unavailable"
+    },
+    "sunday": {
+      "date": "2024-09-16T08:39:09.093258396Z",
+      "availability": "unavailable"
+    }
+  }
+]
