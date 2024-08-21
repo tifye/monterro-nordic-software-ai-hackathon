@@ -1,4 +1,6 @@
 # About
+Built on [Cillers](https://docs.cillers.com/)
+
 This repo is my entry to the hackathon [Monterro and Cillers: Nordic Software AI Hackathon At Waterfront](https://baaboom.confetti.events/nordic-software-hackathon-at-waterfront). 
 
 Please note that this was very rushed with no experience with any of the tech in the Cillers stack (except Docker ofc). You will see a lot of sussy code so please don't hold it that much against me :p. 
